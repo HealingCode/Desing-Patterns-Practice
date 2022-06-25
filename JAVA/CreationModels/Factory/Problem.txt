@@ -1,0 +1,10 @@
+Imagine that you're creating the logistics of delivering of your app, and you can only
+handle transportation with a truck, so your bulk code lives in truck.
+
+On day you need more ways of transportation
+
+You want to add the class ships to your code, but thats  alot of work
+
+the solution is the Factory Patten
+
+Basically you will create objects from a FACTORY class that returns the OBJECTS

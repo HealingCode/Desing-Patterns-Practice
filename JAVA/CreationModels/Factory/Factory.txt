@@ -1,0 +1,2 @@
+This is a patter that provides an INTERFACE for creating OBJECTS in a SUPERCLASS
+but <Allow> SUBCLASSES to alter the type of the OBJECTS created.
